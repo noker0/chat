@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      idi nahuy :)
+      sam idi na xuy
     </>
   )
 }
